@@ -40,7 +40,7 @@ print(summary)
 The preprocess_text function is used for text preprocessing. It takes one parameter:
 
 * text: The text to be preprocessed.
-* 
+
 This function performs the following steps:
 
 * Tokenization
